@@ -1,0 +1,14 @@
+{
+  "name": "learningnpm2019fall",
+  "version": "1.0.0",
+  "description": "We're learning npm package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Couch <ericcouch@yahoo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
